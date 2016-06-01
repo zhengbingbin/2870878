@@ -1,0 +1,9 @@
+a18cd4908d87e325
+
+http://cloud.bmob.cn/a18cd4908d87e325/zheng
+
+
+http://apicloud.mob.com/idcard/query?key=d5f764a9eca6&cardno=330682199009125913
+
+
+ {"result":{"province":"广西","cityCode":"0771","mobileNumber":"1330000","operator":"电信CDMA卡","zipCode":"530000","city":"南宁市"},"msg":"success","retCode":"200"}
